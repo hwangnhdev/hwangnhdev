@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi, I'm hwangnhdev</h1>
+<h1 align="center">Hi, I'm HwangNHDev</h1>
 <p align="center">
   <em>A passionate developer who loves to build and break things</em>
 </p>
@@ -9,6 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=hwangnhdev&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/hwangnhdev?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/hwangnhdev?style=social" alt="GitHub Stars"/>
+</p>
+
+<p align = "center">
+
+  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nguyen-huy-hoang-738205281/)
+  [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_hyhng.uoa._/)
 </p>
 
 ---
@@ -74,10 +80,9 @@
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-| <img src="https://github-readme-stats.vercel.app/api?username=hwangnhdev&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangnhdev&layout=compact&theme=radical" alt="Top Languages" /> |
-| ------------- | ------------- |
+- 🎫  [Booking Seats Cinema Website](https://github.com/hwangnhdev/tickify) – Website with JSP/Servlet, VNPay Payment integration
 
 ---
 
@@ -89,13 +94,16 @@
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-- [Booking Seats Cinema Website](https://github.com/hwangnhdev/tickify) – Website with JSP/Servlet, VNPay Payment integration
+| <img src="https://github-readme-stats.vercel.app/api?username=hwangnhdev&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangnhdev&layout=compact&theme=radical" alt="Top Languages" /> |
+| ------------- | ------------- |
 
 ---
 
-## Connect with me:
+
+
+<!-- ## Connect with me:
 
 <p align = "center">
 
@@ -103,7 +111,7 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_hyhng.uoa._/)
 </p>
 
----
+--- -->
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/hwangnhdev/count.svg" alt="Visitor Counter" />
