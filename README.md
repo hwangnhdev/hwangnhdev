@@ -11,11 +11,11 @@
   <img src="https://img.shields.io/github/stars/hwangnhdev?style=social" alt="GitHub Stars"/>
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
 
   [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nguyen-huy-hoang-738205281/)
   [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_hyhng.uoa._/)
-</p>
+</p> -->
 
 ---
 
@@ -46,7 +46,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 
@@ -66,6 +65,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 ---
 
@@ -93,14 +93,6 @@
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hwangnhdev&theme=onestar&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 ## GitHub Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=hwangnhdev&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwangnhdev&layout=compact&theme=radical" alt="Top Languages" /> |
@@ -108,9 +100,7 @@
 
 ---
 
-
-
-<!-- ## Connect with me:
+## Connect with me:
 
 <p align = "center">
 
@@ -118,23 +108,4 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_hyhng.uoa._/)
 </p>
 
---- -->
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/hwangnhdev/count.svg" alt="Visitor Counter" />
-</p>
-
-<!--
-**hwangnhdev/hwangnhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
