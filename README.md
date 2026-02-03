@@ -81,6 +81,14 @@
 
 ## 🧩 Featured Projects
 
+🚗 **Car Detection & Tracking System**  
+🔗 https://github.com/hwangnhdev/car-detection-autonomous-driving-yolo.git
+> Python · YOLO · OpenCV · Computer Vision  
+
+🌱 **Plant Disease Classification (EfficientNetV2B1)**  
+🔗 https://github.com/hwangnhdev/plant-disease-classification-efficientnetv2b1.git
+> Python · TensorFlow · CNN · EfficientNet  
+
 🎫 **Booking Seats Cinema Website**  
 🔗 https://github.com/hwangnhdev/tickify  
 > JSP / Servlet · VNPay · MVC · SQL Server
